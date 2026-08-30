@@ -1,5 +1,5 @@
 {
-  "payload": "eyJmaXhlcyI6e30sImZsYWdnZWRLYnMiOltdLCJtaW5fc3VwcG9ydGVkX3ZlcnNpb24iOiIwLjEuMCIsIm1vdGQiOiIiLCJzY2hlbWFfdmVyc2lvbiI6MX0=",
-  "sig": "vCAMF9M69LzvilG8FFZBWc0xvRn+kBvfrEtE9tAX83PPApPeJNEPP0iR5ofFwnhmHlfEPBSFkHLJyWadTeSbBg==",
+  "payload": "eyJmaXhlcyI6e30sImZsYWdnZWRLYnMiOlt7ImtiIjoiS0I1MTIwOTk4Iiwibm90ZSI6IlRoaXMgV2luZG93cyB1cGRhdGUgYnJlYWtzIHRoZSBzb2Z0d2FyZS4gUmVtb3ZlIGl0IGFuZCByZXN0YXJ0IHlvdXIgUEMgdG8gZml4IGl0LiIsInNldmVyaXR5IjoiaGlnaCJ9XSwibWluX3N1cHBvcnRlZF92ZXJzaW9uIjoiMC4xLjAiLCJtb3RkIjoiIiwic2NoZW1hX3ZlcnNpb24iOjF9",
+  "sig": "7cd/fv/TCfwFzBj5e57qHMYnrRKij9FN1Ws1eN0aJ38tWbNiUny8gTN/glSTN4aQwjziJEloHy1U2Mji+FH4BQ==",
   "key_id": "config-v1"
 }
